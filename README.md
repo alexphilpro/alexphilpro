@@ -1,7 +1,7 @@
 ### Hey folks 👋
 
 
-🏢 My name is Alexander F. and I'm a Senior Software Engineer at @revolut-engineering
+🏢 My name is Alexander F. and I'm a Senior Software Engineer at financial super app [Revolut](https://www.revolut.com/)
 
 💼 Backend, Data Engineering, MLOps
 
