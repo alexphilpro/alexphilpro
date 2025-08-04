@@ -1,7 +1,9 @@
 ### Hey folks 👋
 
 
-🏢 My name is Alexander F. and I'm a Senior Software Engineer at financial super app [Revolut](https://www.revolut.com/)
+🏢 My name is Alexander F. and I'm a Lead Software Engineer at business payments super app [Apron](https://getapron.com/)
+
+ex-[Revolut](https://www.revolut.com/) - Senior Software Engineer at well known financial super app
 
 ex-[Constanta](https://const.tech/) BE developer of systems for real-time processing of low-level events exctracted from videostreams by DL models
 
